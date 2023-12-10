@@ -1,6 +1,8 @@
 # Description
 Widget for the mac OS of the [Übersicht](http://tracesof.net/uebersicht/) application. It allows you to change the wallpaper on your desktop, including live wallpaper.
 
+![screenshot](screenshot.png)
+
 # Usage
 Change the settings in the `settings.json`.
 First, set the type of the desired media file in the `type` property, it can be "video" (mp4, mov, avi...) or "image" (gif, jpeg, png...).
