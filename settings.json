@@ -1,0 +1,13 @@
+{
+  // A Boolean flag that indicates whether it is a local file.
+  "isLocal": false, // Type: true | false
+
+  // Media File Type
+  "type": "image", // Type: "video" | "image"
+
+  // Link to an external media source
+  "src": "", // Type: string
+
+  // Name of your local file
+  "fileName": "" // Type: string
+}
