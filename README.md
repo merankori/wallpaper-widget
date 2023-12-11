@@ -1,5 +1,5 @@
 # Description
-Widget for the mac OS of the [Übersicht](http://tracesof.net/uebersicht/) application. It allows you to change the wallpaper on your desktop, including live wallpaper.
+Widget for the macOS of the [Übersicht](http://tracesof.net/uebersicht/) application. It allows you to change the wallpaper on your desktop, including live wallpaper.
 
 ![screenshot](screenshot.png)
 
@@ -10,4 +10,4 @@ The `isLocal` flag indicates whether your media file is local. If not, the sourc
 
 
 # Installation
-Just clone the repository to the widgets folder, which Ubersmith will help you navigate to.
+Just clone the repository or unzip the `wallpaper.widget.zip` archive into the widgets folder, which Übersicht will help you navigate to.
