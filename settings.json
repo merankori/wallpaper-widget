@@ -8,6 +8,9 @@
   // Link to an external media source
   "src": "", // Type: string
 
+  // The name of the root folder of this widget
+  "folderName": "wallpaper.widget", // Type: string
+
   // Name of your local file
   "fileName": "" // Type: string
 }

@@ -39,7 +39,7 @@ const mediaEl = css`
 
 export const render = () => {
   const mediaSource = settings.isLocal
-    ? `wallpaper/${settings.type}/${settings.fileName}`
+    ? `${settings.folderName}/${settings.type}/${settings.fileName}`
     : settings.src;
 
   switch (settings.type) {
